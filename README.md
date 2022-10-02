@@ -5,10 +5,9 @@ The application is a web text editor where the user can create notes or code sni
 ## Table of Contents 
 
 - [User Story](#user-story)
-- [Usage](#usage)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshots](#screenshots)
-- [Authors](#authors)
+- [Author](#author)
 - [Deployment](#deployment)
 - [License](#license)
 
