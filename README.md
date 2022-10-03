@@ -71,6 +71,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ## Screenshots
 
+![Screen Shot 2022-10-02 at 5 20 51 PM](https://user-images.githubusercontent.com/103548864/193483122-7ea6c2f0-dd6c-478e-9948-5f7e5bab1187.png)
 
 
 
@@ -82,7 +83,8 @@ THEN I should have proper build scripts for a webpack application
 ## Deployment
 
 
-Heroku: 
+Heroku: https://text-editor-45.herokuapp.com/
+
 
 Github: https://github.com/Purplepenguin67/text-editor
 
